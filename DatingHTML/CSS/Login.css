@@ -1,0 +1,50 @@
+﻿body {
+}
+
+.Background {
+    background-image: url('../Images/loginbackground.jpg');
+    background-repeat:no-repeat;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 700px;
+    position:relative;
+}
+
+.Logo {
+    height: 240px;
+    left: 50%;
+    transform:translate(-50%,-0%);
+    width: 60%;
+    position:absolute;
+}
+
+.ButtonSignin {
+    left: 50%;
+    transform: translate(-50%,-0%);
+    width: 50%;
+    margin-top: 40%;
+    position: absolute;
+    cursor: pointer;
+    font-size: 30px;
+    background-color: black;
+    opacity: 0.8;
+    border-style: dotted;
+    color: purple;
+    border-color: purple;
+}
+
+.ButtonCreate {
+    left: 50%;
+    transform: translate(-50%,-0%);
+    width: 50%;
+    margin-top: 47%;
+    position: absolute;
+    cursor: pointer;
+    font-size: 30px;
+    background-color: black;
+    opacity: 0.8;
+    border-style:dotted;
+    color: purple;
+    border-color:purple;
+}
