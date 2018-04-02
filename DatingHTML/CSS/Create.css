@@ -1,0 +1,59 @@
+﻿body {
+}
+
+.Firstname {
+    left: 25%;
+    transform: translate(-30%,-0%);
+    width: 30%;
+    margin-top: 30%;
+    position: absolute;
+    font-size: 20px;
+}
+
+.Area {
+    left: 50%;
+    transform: translate(-30%,-0%);
+    width: 30%;
+    margin-top: 30%;
+    position: absolute;
+    font-size: 20px;
+}
+
+.Image {
+    left: 75%;
+    transform: translate(-30%,-0%);
+    width: 30%;
+    margin-top: 30%;
+    position: absolute;
+    font-size: 20px;
+}
+
+.Submit {
+    left: 75%;
+    transform: translate(-50%,-0%);
+    width: 35%;
+    margin-top: 60%;
+    position: absolute;
+    cursor: pointer;
+    font-size: 25px;
+    background-color: black;
+    opacity: 0.8;
+    border-style: dotted;
+    color: purple;
+    border-color: purple;
+}
+
+.BackToFront {
+    left: 25%;
+    transform: translate(-50%,-0%);
+    width: 35%;
+    margin-top: 60%;
+    position: absolute;
+    cursor: pointer;
+    font-size: 25px;
+    background-color: black;
+    opacity: 0.8;
+    border-style: dotted;
+    color: purple;
+    border-color: purple;
+}
